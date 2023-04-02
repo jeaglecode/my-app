@@ -1,4 +1,11 @@
 .purple {
-  backdrop-filter: blur(10px);
+  /*backdrop-filter: blur(10px);*/
   color: purple;
+}
+.back {
+  margin-top: 10px;
+  backdrop-filter: blur(50px);
+  padding: 5px;
+  border-radius: 10px;
+  /*background-color: wheat;*/
 }
